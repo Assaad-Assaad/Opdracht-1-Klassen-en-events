@@ -1,0 +1,14 @@
+C:\Users\32489\OneDrive\Desktop\.NET\Opdracht_Klassen_En_Events\Opdracht_Klassen_En_Events\bin\Debug\net7.0\Opdracht_Klassen_En_Events.exe
+C:\Users\32489\OneDrive\Desktop\.NET\Opdracht_Klassen_En_Events\Opdracht_Klassen_En_Events\bin\Debug\net7.0\Opdracht_Klassen_En_Events.deps.json
+C:\Users\32489\OneDrive\Desktop\.NET\Opdracht_Klassen_En_Events\Opdracht_Klassen_En_Events\bin\Debug\net7.0\Opdracht_Klassen_En_Events.runtimeconfig.json
+C:\Users\32489\OneDrive\Desktop\.NET\Opdracht_Klassen_En_Events\Opdracht_Klassen_En_Events\bin\Debug\net7.0\Opdracht_Klassen_En_Events.dll
+C:\Users\32489\OneDrive\Desktop\.NET\Opdracht_Klassen_En_Events\Opdracht_Klassen_En_Events\bin\Debug\net7.0\Opdracht_Klassen_En_Events.pdb
+C:\Users\32489\OneDrive\Desktop\.NET\Opdracht_Klassen_En_Events\Opdracht_Klassen_En_Events\obj\Debug\net7.0\Opdracht_Klassen_En_Events.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\32489\OneDrive\Desktop\.NET\Opdracht_Klassen_En_Events\Opdracht_Klassen_En_Events\obj\Debug\net7.0\Opdracht_Klassen_En_Events.AssemblyInfoInputs.cache
+C:\Users\32489\OneDrive\Desktop\.NET\Opdracht_Klassen_En_Events\Opdracht_Klassen_En_Events\obj\Debug\net7.0\Opdracht_Klassen_En_Events.AssemblyInfo.cs
+C:\Users\32489\OneDrive\Desktop\.NET\Opdracht_Klassen_En_Events\Opdracht_Klassen_En_Events\obj\Debug\net7.0\Opdracht_Klassen_En_Events.csproj.CoreCompileInputs.cache
+C:\Users\32489\OneDrive\Desktop\.NET\Opdracht_Klassen_En_Events\Opdracht_Klassen_En_Events\obj\Debug\net7.0\Opdracht_Klassen_En_Events.dll
+C:\Users\32489\OneDrive\Desktop\.NET\Opdracht_Klassen_En_Events\Opdracht_Klassen_En_Events\obj\Debug\net7.0\refint\Opdracht_Klassen_En_Events.dll
+C:\Users\32489\OneDrive\Desktop\.NET\Opdracht_Klassen_En_Events\Opdracht_Klassen_En_Events\obj\Debug\net7.0\Opdracht_Klassen_En_Events.pdb
+C:\Users\32489\OneDrive\Desktop\.NET\Opdracht_Klassen_En_Events\Opdracht_Klassen_En_Events\obj\Debug\net7.0\Opdracht_Klassen_En_Events.genruntimeconfig.cache
+C:\Users\32489\OneDrive\Desktop\.NET\Opdracht_Klassen_En_Events\Opdracht_Klassen_En_Events\obj\Debug\net7.0\ref\Opdracht_Klassen_En_Events.dll
