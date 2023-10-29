@@ -31,10 +31,6 @@ order2.ConfirmedOrder();
 
 
 
-//Console.WriteLine(newOrder.OrderInfo(book1));
-
-
-//Console.WriteLine(book2.ToString());
 
 
 
